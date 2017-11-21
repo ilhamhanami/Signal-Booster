@@ -1,4 +1,4 @@
-package dataStructures;
+package chapter12;
 public class BinaryTreeNode
 {
    // package visible data members

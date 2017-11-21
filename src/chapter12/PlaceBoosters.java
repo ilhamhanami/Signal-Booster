@@ -1,10 +1,9 @@
 
 /** place signal boosters in a binary distribution tree */
 
-package dataStructures;
+package chapter12;
 
 import java.lang.reflect.*;
-import dataStructures.*;
 
 public class PlaceBoosters
 {

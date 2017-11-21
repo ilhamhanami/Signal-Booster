@@ -1,5 +1,5 @@
 
-package dataStructures;
+package chapter12;
 
 public class ArrayQueue implements Queue
 {

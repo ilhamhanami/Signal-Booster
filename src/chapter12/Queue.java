@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package dataStructures;
+package chapter12;
 
 public interface Queue
 {
